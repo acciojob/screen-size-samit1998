@@ -1,5 +1,5 @@
 //your JS code here. If required.
-llet height=this.innerHeight;
+let height=this.innerHeight;
     let width=this.innerWidth;
    let div=document.getElementById("sizeInfo");
     let h=div.firstChild;
